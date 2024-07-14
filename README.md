@@ -1,2 +1,2 @@
-07a2833541a26fe71d424f6504d81289d60da7f9# Nord-vpn
+# Nord-vpn
 Nord vpn
